@@ -1,0 +1,6 @@
+ $aylar = array("Ocak","Şubat","Mart","Nisan","Mayıs","Haziran","Temmuz",
+   "Ağustos","Eylül","Ekim","Kasım","Aralık");
+
+    foreach($aylar as $değer){
+    echo "$değer   ";
+}
