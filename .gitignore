@@ -1,0 +1,9 @@
+# Ignore PHP-related files and common IDE/OS artifacts
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+vendor/
+composer.phar
+composer.lock
